@@ -2,7 +2,7 @@ class Naturalterminal < Formula
   desc "A natural language terminal tool"
   homepage "https://github.com/leonCTL12/homebrew-naturalterminal"
   url "https://github.com/leonCTL12/NaturalTerminal/releases/download/v1.0.0/NaturalTerminal-macos-v1.0.0.tar.gz"
-  sha256 "ab502bc9212b9360b57bb5d73413c91a68651112e91b3ce3a6f8263c0a5f4982"
+  sha256 "af4c979d53e2de56b0de37d22090a80d230dceb3a8648ce31a5149fc99691672"
   version "1.0.0"
 
   def install
